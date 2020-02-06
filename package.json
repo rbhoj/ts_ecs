@@ -1,0 +1,29 @@
+{
+  "name": "solitaire_garden_2",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/pixi.js": "^4.6.1",
+    "pixi.js": "^4.6.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "babelify": "^10.0.0",
+    "grunt": "^1.0.4",
+    "grunt-browserify": "^5.3.0",
+    "grunt-contrib-connect": "^2.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-exorcise": "^2.1.1",
+    "grunt-notify": "^0.4.5",
+    "tsify": "^4.0.1",
+    "typescript": "^3.3.3333"
+  }
+}
